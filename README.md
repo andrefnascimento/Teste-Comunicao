@@ -12,9 +12,9 @@ Estou voltando aos estudos de **JavaScript + React**
     1. Git
     1. GItHub Desktop
 1. Consegui revisar todos conceitos do *Git + GitHub*. 
-    1. Congiguracoes e estrutudo no Visual Studio
-    1. Estrutura de versionamento
-    1. Commit, Issues, Push em repositorio GitHUb
+    - Configuracoes e estrutudo no Visual Studio
+    - Estrutura de versionamento
+    - Commit, Issues, Push em repositorio GitHUb
 
 ### *Desafio Final do Cliclo de Estudos*
 - [] Criar Prototipo Telas do App Ramus {*Figma*}
