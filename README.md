@@ -15,7 +15,10 @@ Estou voltando aos estudos de **JavaScript + React**
     - Configuracoes e estrutudo no Visual Studio
     - Estrutura de versionamento
     - Commit, Issues, Push em repositorio GitHUb
-
+    - Emoji Auxiliares da Linguagem MarkDown 
 ### *Desafio Final do Cliclo de Estudos*
 - [] Criar Prototipo Telas do App Ramus {*Figma*}
 - [] Criar Estrutura de Codigos
+
+
+*Que Deus me Abencoe nos Estudos*
