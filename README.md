@@ -21,4 +21,4 @@ Estou voltando aos estudos de **JavaScript + React**
 - [] Criar Estrutura de Codigos
 
 
-*Que Deus me Abencoe nos Estudos* :vulcan_salute
+*Que Deus me Abencoe nos Estudos* 
