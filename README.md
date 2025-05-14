@@ -11,7 +11,7 @@ Estou voltando aos estudos de **JavaScript + React**
     1. Microsoft Virtual Studio
     1. Git
     1. GItHub Desktop
-1. Consegui revisar todos conceitos do --Git + GitHub--. 
+1. Consegui revisar todos conceitos do *Git + GitHub*. 
     1. Congiguracoes e estrutudo no Visual Studio
     1. Estrutura de versionamento
     1. Commit, Issues, Push em repositorio GitHUb
