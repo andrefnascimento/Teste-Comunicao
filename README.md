@@ -15,3 +15,7 @@ Estou voltando aos estudos de **JavaScript + React**
     1. Congiguracoes e estrutudo no Visual Studio
     1. Estrutura de versionamento
     1. Commit, Issues, Push em repositorio GitHUb
+
+### *Desafio Final do Cliclo de Estudos*
+-[] Criar Prototipo Telas do App Ramus {*Figma*}
+-[] Criar Estrutura de Codigos
