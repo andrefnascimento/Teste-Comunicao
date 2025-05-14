@@ -17,5 +17,5 @@ Estou voltando aos estudos de **JavaScript + React**
     1. Commit, Issues, Push em repositorio GitHUb
 
 ### *Desafio Final do Cliclo de Estudos*
-[] Criar Prototipo Telas do App Ramus {*Figma*}
-[] Criar Estrutura de Codigos
+- [] Criar Prototipo Telas do App Ramus {*Figma*}
+- [] Criar Estrutura de Codigos
