@@ -9,7 +9,7 @@ Estou voltando aos estudos de **JavaScript + React**
 1. Consegui revisar todos conceitos do *Git + GitHub*. 
     - Configurações e estrutura no Visual Studio
     - Estrutura de versionamento
-    - Commit, Issues, Push em repositório GitHub
+    - Commit, Branshes, Issues, Push em repositório GitHub
     - Emoji Auxiliares da Linguagem MarkDown  [Acesse Aqui Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 ### *Desafio Final do Ciclo de Estudos*
 - [] Criar Protótipo Telas do App Ramus {*Figma*}
